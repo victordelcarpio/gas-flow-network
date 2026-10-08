@@ -1,0 +1,5 @@
+.venv/
+network_outputs/
+*.csv
+*.png
+__pycache__/
